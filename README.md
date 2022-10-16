@@ -3,7 +3,7 @@
 - Replace TOKEN and CHAT_ID
 - Copy python file to /bin
 	```console
-	sudo cp -i /path/to/ismyrasponlilne.py
+	sudo cp -i /path/to/ismyrasponlilne.py /bin
 	```
 - Add a new cron job
 	```console
